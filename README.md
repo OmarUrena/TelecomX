@@ -2,6 +2,7 @@
 
 # **Telecom X - Análisis de Evasión de Clientes**
 Proyecto Telecom X- ONE Alura
+
 He sido contratado como asistente de análisis de datos en Telecom X para colaborar en el proyecto **"Churn de Clientes"**. La empresa está enfrentando una alta tasa de cancelaciones de servicios y mi objetivo es contribuir a identificar los factores que influyen en la pérdida de clientes.
 
 Mi responsabilidad será recopilar, procesar y analizar los datos disponibles, utilizando **Python** y sus principales bibliotecas. A partir del análisis, el equipo de Data Science podrá desarrollar modelos predictivos más precisos y diseñar estrategias efectivas para reducir la evasión.
